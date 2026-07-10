@@ -1,5 +1,4 @@
 # 🤖 GenAI-Powered Data Analytics & AI Strategy
-### Tata iQ GenAI Powered Data Analytics Job Simulation (Forage)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Forage-blue)
